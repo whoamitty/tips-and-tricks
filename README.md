@@ -3,7 +3,7 @@
 Here I while share my tips and tricks learned   
 by my experience in linux, dev, and etc.  
   
-# I translate
+## I translate
 
 I while put it mainly in [french](/fr) and then in [english](/en).  
 I am open for all willingness to contribute translations .  
